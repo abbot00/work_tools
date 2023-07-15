@@ -1,0 +1,1 @@
+#this folder contains my personal studies in bash scripting and c 
